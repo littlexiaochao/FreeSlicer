@@ -1,4 +1,3 @@
-![guide](https://github.com/littlexiaochao/FreeSlicer/assets/55174611/8febda65-8e01-4c8e-8810-4fb02f5e9428)# FreeSlicer
 FreeSlicer is a 3D printing plugin in Grasshopper & Rhino, designers can draw or generate curves and then convert them into GCode commands directly. FreeSlicer focuses on the flat materials generation by 3D printing, and also suitable to the general 3D printing through docking with parametric design.
 
 Grasshopper is a built-in plugin for Rhino. The download address: https://www.rhino3d.com/download/.
