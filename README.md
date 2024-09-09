@@ -8,7 +8,8 @@ Grasshopper is a built-in plugin for Rhino. The download address: https://www.rh
 
 1. Open Rhino and open Grasshopper.
 2. In Grasshopper, click "File" -> "Special Folders" -> "User Object Folder".
-3. take "FreeSlicer_v2" folder into "UseObjects" folder.
+3. Take "FreeSlicer_v2" folder into "UseObjects" folder.
+4. Restart the Rhino software to use the plug-in in Grasshopper
 
 ![image](https://github.com/littlexiaochao/FreeSlicer/blob/main/guide.png)
 
