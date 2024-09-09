@@ -10,13 +10,13 @@ Grasshopper is a built-in plugin for Rhino. The download address: https://www.rh
 2. In Grasshopper, click "File" -> "Special Folders" -> "User Object Folder".
 3. take "FreeSlicer_v2" folder into "UseObjects" folder.
 
-![guide](.\guide.png)
+![image](https://github.com/littlexiaochao/FreeSlicer/blob/main/guide.png)
 
 # User Interface
 
 For beginners, we also provide a user interface through the Human UI plugin, before using the user interface, you need to confirm whether you have installed the Human UI plugin in Grasshopper.
 Plugin download address: https://www.food4rhino.com/en/app/human-ui
 
-![user_interface_guide1](.\user_interface_guide1.jpg)
+![image](https://github.com/littlexiaochao/FreeSlicer/blob/main/user_interface_guide1.jpg)
 
-![user_interface_guide2](.\user_interface_guide2.jpg)
+![image](https://github.com/littlexiaochao/FreeSlicer/blob/main/user_interface_guide2.jpg)
