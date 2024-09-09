@@ -13,6 +13,8 @@ Grasshopper is a built-in plugin for Rhino. The download address: https://www.rh
 
 ![image](https://github.com/littlexiaochao/FreeSlicer/blob/main/guide.png)
 
+It is recommended to use FreeSlicer on a Windows system. If you are using Rhino on macOS, the folder address format when saving the Gcode will be different from the one shown in the image. Use the macOS folder address format, for example: /Users/FreeSlicer/Documents/gcode. Additionally, you need to add a “/” at the end of the path, i.e.: /Users/FreeSlicer/Documents/gcode/.
+
 # User Interface
 
 For beginners, we also provide a user interface through the Human UI plugin, before using the user interface, you need to confirm whether you have installed the Human UI plugin in Grasshopper.Plugin download address: https://www.food4rhino.com/en/app/human-ui
